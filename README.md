@@ -2,5 +2,4 @@
 
 Vehicle Listview Flutter project.
 
-
-![vehicleList](https://user-images.githubusercontent.com/49180744/95171900-6b6af980-076b-11eb-977c-6c30e720806e.png)
+![vehicle-List](https://user-images.githubusercontent.com/49180744/95172876-c9e4a780-076c-11eb-9e3e-d2241f5de6c0.png)
